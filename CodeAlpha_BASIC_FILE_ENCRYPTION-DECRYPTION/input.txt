@@ -1,0 +1,6 @@
+The Caesar cipher is a very basic encryption method and is not secure for real-world applications. It is used here for educational purposes.
+
+The program assumes that the input file is a text file. Non-text files may not be handled correctly.
+
+The shift value should be between 1 and 25. A shift of 0 or 26 would result in no change to the text.
+
